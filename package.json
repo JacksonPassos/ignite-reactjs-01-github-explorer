@@ -1,0 +1,12 @@
+{
+  "name": "ignite-reactjs-01-github-explorer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/JacksonPassos/ignite-reactjs-01-github-explorer.git",
+  "author": "Jackson Passos <jacksonguitar33@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
